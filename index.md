@@ -10,4 +10,4 @@
 
 ### Contact
 
-Check [Anchor website](https://aul.edu.ng/) or [contact](+2349051880903) and we’ll help you sort it out.
+Reach me on [Telegram](https://t.me/dandollar1), [Email](enweazudaniel@gmail.com) and [XDA](https://forum.xda-developers.com/m/enweazudaniel.7555130/).
