@@ -8,7 +8,7 @@ In my free time, I enjoy driving, playing soccer, traveling, and staying up to d
 
 ## Education
 
-I have a Bachelor's degree in Computer Science from Sharda University and a Master's degree in Computer Science from Anchor University. During my studies, I gained a strong foundation in computer science concepts and principles, and learned how to apply them to solve real-world problems.
+I have a Bachelor's degree in Computer Science from Anchor University. During my studies, I gained a strong foundation in computer science concepts and principles, and learned how to apply them to solve real-world problems.
 
 ## Work Experience
 
