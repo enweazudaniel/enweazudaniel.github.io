@@ -15,7 +15,7 @@ I have a Bachelor's degree in Computer Science from Anchor University. During my
 I have worked in a number of roles as a software developer and tester, including:
 
 - Maintainer at Resurrection Remix OS (2020-present)
-- Founder of Archipelago Kernel (2020-present)
+- Founder of Archipelago Kernel (2020-2023)
 - Maintainer at DOTOS (2021-present)
 - Maintainer at Superior OS (2021-present)
 - Translator at SongTube (2020-present)
